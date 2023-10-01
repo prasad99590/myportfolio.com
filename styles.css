@@ -1,0 +1,63 @@
+body
+{
+    margin: 0px;
+    text-align: center;
+    align-items: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: lighter;
+    height: 100vh;
+    background-color: #CCC8AA;
+}
+.buttons
+{
+    height: 10%;
+    margin: 0px;
+    text-align: end;
+    padding: 10px 50px;
+    margin-bottom: 50px;
+    background-color: #016A70;
+}
+.buttons-header
+{
+    margin: 10px;
+    width: auto;
+    height: 40%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.header
+{
+    background-image: url();
+    background-size: contain;
+}
+.aboutme
+{
+    padding: 30px;
+    font-weight: 200;
+}
+hr
+{
+    margin: 50px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 15px;
+    width: 30%;
+    height: 10%;
+}
+.profile-icon
+{
+    border-color: #113946;
+    border-radius: 10px;
+}
+.footer
+{
+    padding: 30px;
+    background-color: #016A70;
+}
+.contact-icon
+{
+    width: 25px;
+    height: 25px;
+    margin: 0px 10px;
+}
